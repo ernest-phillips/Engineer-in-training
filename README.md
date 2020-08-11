@@ -10,11 +10,11 @@ _This repository will contain short-term and longer term milestones.
 Short-term is defined as tasks to be completed in less than a year._
 
 ### Milestone #1 
-Complete remaining content from [Thinkful](https://www.thinkful.com/bootcamp/web-development/flexible/) Flexible Bootcamp
+Complete remaining content from the [Thinkful](https://www.thinkful.com/bootcamp/web-development/flexible/) Flexible Bootcamp.
 
 ### Milestone #2
-Ruby on Rails track
+Ruby on Rails track.
 
 ### Milestone #3
-Advanced development concepts
+Advanced development concepts.
 
