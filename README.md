@@ -9,10 +9,10 @@ Listed here will be specific curriculum and goals to follow with timeline for wh
 _This repository will contain short-term and longer term milestones.
 Short-term is defined as tasks to be completed in less than a year._
 
-### Milestone #1 
+### Milestone #[1](https://github.com/ernest-phillips/Engineering_Roadmap/issues/1) 
 Complete remaining content from the [Thinkful](https://www.thinkful.com/bootcamp/web-development/flexible/) Flexible Bootcamp.
 
-### Milestone #2
+### Milestone #[2](https://github.com/ernest-phillips/Engineering_Roadmap/issues/2)
 Ruby on Rails track.
 
 ### Milestone #3
