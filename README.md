@@ -18,4 +18,4 @@ Ruby on Rails track.
 ### Milestone #3
 Advanced development concepts.
 
-![Future Me](https://github.com/ernest-phillips/Engineering_Roadmap/blob/master/future_me.png)
+![Future Me](https://github.com/ernest-phillips/ernest-phillips.github.io/blob/master/future_me.png)
