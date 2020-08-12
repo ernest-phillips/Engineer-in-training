@@ -1,4 +1,6 @@
 ## Collaborators list
 
-### Name | Area of interest
-Ernest Test Account | Devloping curiculum for the roadmap
+| Name | Area of interest |
+| ---- | ---------------- |
+| Ernest Test Account | Developing curiculum for the roadmap |
+
