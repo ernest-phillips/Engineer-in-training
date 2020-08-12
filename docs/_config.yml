@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -30,7 +31,7 @@ twitter_username:
 github_username:  ernest-phillips
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
@@ -53,3 +54,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
