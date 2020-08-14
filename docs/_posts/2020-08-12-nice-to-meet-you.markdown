@@ -2,8 +2,8 @@
 layout: post
 title:  "Nice to meet you!"
 date:   2020-08-12 20:38:48 -0700
-categories: jekyll update
 comments: true
+permalink: /blog/:title
 ---
 
 <span style="font-family:Helvetica; font-size:1.5em;">Hello there!</span>
