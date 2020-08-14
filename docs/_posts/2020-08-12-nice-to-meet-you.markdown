@@ -6,7 +6,7 @@ comments: true
 permalink: /blog/:title
 ---
 
-<span style="font-family:Helvetica; font-size:1.5em;">Hello there!</span>
+Hello there!
   <br >
 I'm Ernest, and I am using this site to learn in public.
 I currently work at GitHub as a Support Engineer, where I get to help

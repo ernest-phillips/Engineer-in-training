@@ -29,7 +29,7 @@ github_username:  ernest-phillips
 linkedin_username: ernestlphillips
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog`
 plugins:
   - jekyll-feed
 
