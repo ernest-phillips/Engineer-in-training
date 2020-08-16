@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Nice to meet you!"
 date:   2020-08-12 20:38:48 -0700
 comments: true

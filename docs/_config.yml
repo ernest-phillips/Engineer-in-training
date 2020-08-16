@@ -1,12 +1,12 @@
-title: Your awesome title
-author:
-  name: GitHub User
+title: Ern Gets Good
+author: Ernest L. Phillips
+  # name: Ernest Phillips
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Hey folks, this site is under construction. Blog posts and other content 
   will be available soon.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -15,14 +15,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: _ernestp
+    github:  ernest-phillips
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: jekyll
+    linkedin: ernestlphillips
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
