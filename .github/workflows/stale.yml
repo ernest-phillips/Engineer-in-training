@@ -1,0 +1,26 @@
+name: Check for outdated issues/PRs
+
+on:
+  schedule:
+  - cron: "30 1 * * *"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/stale@v3
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: "👋 This issue has been marked as stale because it has been open for a while with no activity. Comment here or remove the `stale` label to keep it open, or add the `keep` label so this bot doesn’t check for staleness again. If you do nothing, this issue will be automatically closed."
+        stale-issue-label: "stale"
+        exempt-issue-labels: "keep"
+        stale-pr-message: "👋 This pull request has been marked as stale because it has been open for a while with no activity. Comment here or remove the `stale` label to keep it open, or add the `keep` label so this bot doesn’t check for staleness again. If you do nothing, this PR will be automatically closed."
+        stale-pr-label: "stale"
+        exempt-pr-labels: "keep"
+        days-before-issue-stale: 30
+        days-before-issue-close: 7
+        days-before-pr-stale: 14
+        days-before-pr-close: 3
+        ascending: true
